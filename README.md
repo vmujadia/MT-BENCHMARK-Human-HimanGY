@@ -4,8 +4,8 @@ Parallel sentence benchmarks for the following language pairs:
 
 - English–Hindi
 - English–Telugu
-- Hindi–Telugu (derived via shared English)
-
+- Hindi–Telugu
+  
 This repository includes multiple domains, reference translations, and
 balanced splits for development and evaluation.
 
